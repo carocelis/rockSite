@@ -1,0 +1,82 @@
+body{
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+#menu{
+  background-color: #343A40;
+}
+
+.bootstrap{
+  color: white;
+  font-family: sans-serif;
+  font-size: 200%;
+  padding-left: 5%;
+}
+
+.home, .about, .services, .contact{
+  text-align: left;
+  padding-top: 1.5%;
+}
+
+.text-home, .text-about, .text-services, .text-contact{
+  text-decoration: none;
+  color: #939393;
+  font-family: sans-serif;
+
+}
+
+.text-home:hover, .text-about:hover, .text-services:hover, .text-contact:hover{
+  color: white;
+}
+
+.photo-header{
+  width: 100%;
+}
+
+.photo-one{
+  padding: 0;
+}
+
+.title{
+  background-image: url(../img/header.jpg);
+
+  text-align: center;
+  color: white;
+  padding-top: 30%;
+  padding-bottom: 30%;
+}
+
+.text-one{
+  font-family: sans-serif;
+  font-size: 600%;
+  font-weight: lighter;
+}
+
+.text-will{
+  font-family: sans-serif;
+  font-size: 300%;
+  font-weight: lighter;
+}
+
+.rockers, .salute, .let-there{
+  padding: 10%;
+  padding-top: 12%;
+}
+
+.title-rockers, .title-salute, .title-let{
+  font-size: 300%;
+  font-weight: lighter;
+
+}
+
+.pic-rock, .pic-salute, .pic-let{
+  border-radius: 50%;
+  padding: 3%;
+}
+
+.foot{
+  background-color: #343A40;
+  text-align: center;
+  color: white;
+  padding: 3%;
+}
